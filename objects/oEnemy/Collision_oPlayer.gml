@@ -1,0 +1,1 @@
+//hp = hp -50;	//testing hp
