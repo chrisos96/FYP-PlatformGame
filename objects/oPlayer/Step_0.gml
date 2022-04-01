@@ -47,7 +47,7 @@ vsp = (vsp + grv);
 //If on floor then allow jump
 allowjump -= 1;
 if(allowjump > 0) && ((key_jump || key_jump2)){
-	vsp = -6.2;
+	vsp = -7.2;
 	allowjump = 0;
 }
 
