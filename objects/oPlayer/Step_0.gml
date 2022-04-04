@@ -57,6 +57,7 @@ if(place_meeting(x+hsp,y,oCollision)){
 		x = x + sign(hsp)
 	}
 	hsp=0
+	
 }
 x = x + hsp
 
@@ -67,6 +68,8 @@ if(place_meeting(x,y+vsp,oCollision)){
 		y = y + sign(vsp)
 	}
 	vsp=0
+	grv = .25
+	walksp = 4;
 }
 y = y + vsp
 
@@ -79,7 +82,7 @@ if(aimside != 0){
 
 if (!place_meeting(x,y+1,oCollision)){
 	sprite_index = sPlayerMovement;
-	image_speed = 0;
+	image_speed = 1;
 	if (sign(vsp) > 0) image_index = 2; else image_index = 0;
 }
 else
@@ -90,7 +93,7 @@ else
 	}
 	image_speed = 1;
 	
-	if (hsp == 0)
+	if (hsp == 0 && !place_meeting(x,y,oWater))
 	{
 		sprite_index = sPlayer
 	}
@@ -113,5 +116,28 @@ if(global.hp <= 0){
 	room_restart();
 	SetDefaultGlobalVar();
 }
+
+
+
+//Code for collision with water
+if(place_meeting(x+hsp,y,oWater)){
+
+	sprite_index = sPlayerSwim;
+	image_speed = 1;
+
+	while (!place_meeting(x+sign(hsp),y,oWater)){
+	}
+	grv = .1
+	walksp = 2;
+	
+	
+}
+else{
+	grv = .25
+	walksp = 4;
+
+}
+
+
 
 
