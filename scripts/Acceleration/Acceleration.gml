@@ -23,11 +23,3 @@ return argument0;
 
 
 
-function oPlayerDecrementHealth()
-{
-	    if (invincible = 0){
-		global.hp = global.hp -25;
-		flashP = 3;
-		invincible = 60;
-	}
-}
