@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sAmmoBox","path":"sprites/sAmmoBox/sAmmoBox.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sAmmoBox",
     "tags": [],
     "resourceType": "GMSequence",

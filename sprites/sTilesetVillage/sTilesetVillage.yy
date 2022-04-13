@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sTilesetVillage","path":"sprites/sTilesetVillage/sTilesetVillage.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sTilesetVillage",
     "tags": [],
     "resourceType": "GMSequence",

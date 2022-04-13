@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sAmmo","path":"sprites/sAmmo/sAmmo.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sAmmo",
     "tags": [],
     "resourceType": "GMSequence",

@@ -67,7 +67,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerDead","path":"sprites/sPlayerDead/sPlayerDead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerDead",
     "tags": [],
     "resourceType": "GMSequence",

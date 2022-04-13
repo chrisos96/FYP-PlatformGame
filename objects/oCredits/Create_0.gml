@@ -3,11 +3,12 @@ Developer = Chris O'Shea
 
 Special thanks to the people below for providing their amazing game assets
 
-Audio
+AUDIO
 Music = Miguel Herrero 
+		Alexandr Zhelanov
 SFX = NAN 
 
-Game Art
+GAME ART
 Character Art = Pipoya
 Landscape Art = Cainos
 Interactible Art = Alekei

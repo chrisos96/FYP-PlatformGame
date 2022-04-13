@@ -99,7 +99,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sMineExplosion","path":"sprites/sMineExplosion/sMineExplosion.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sMineExplosion",
     "tags": [],
     "resourceType": "GMSequence",

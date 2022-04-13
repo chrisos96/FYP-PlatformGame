@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sWaterBase","path":"sprites/sWaterBase/sWaterBase.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sWaterBase",
     "tags": [],
     "resourceType": "GMSequence",

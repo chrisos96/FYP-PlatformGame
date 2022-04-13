@@ -67,7 +67,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerSwim","path":"sprites/sPlayerSwim/sPlayerSwim.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerSwim",
     "tags": [],
     "resourceType": "GMSequence",

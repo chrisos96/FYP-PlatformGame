@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sWaterBlock","path":"sprites/sWaterBlock/sWaterBlock.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sWaterBlock",
     "tags": [],
     "resourceType": "GMSequence",

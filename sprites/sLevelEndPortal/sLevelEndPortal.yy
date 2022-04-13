@@ -95,7 +95,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sLevelEndPortal","path":"sprites/sLevelEndPortal/sLevelEndPortal.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sLevelEndPortal",
     "tags": [],
     "resourceType": "GMSequence",

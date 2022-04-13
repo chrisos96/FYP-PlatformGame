@@ -87,7 +87,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sEnemyDead","path":"sprites/sEnemyDead/sEnemyDead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sEnemyDead",
     "tags": [],
     "resourceType": "GMSequence",

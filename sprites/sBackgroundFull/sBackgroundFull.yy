@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sBackgroundFull","path":"sprites/sBackgroundFull/sBackgroundFull.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sBackgroundFull",
     "tags": [],
     "resourceType": "GMSequence",

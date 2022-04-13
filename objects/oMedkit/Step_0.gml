@@ -10,3 +10,5 @@ if(place_meeting(x,y,oPlayer)){
 	}
 	
 }
+
+y = ystart + sin(get_timer()/500000)*2;

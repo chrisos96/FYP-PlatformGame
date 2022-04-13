@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sSignpostMarker","path":"sprites/sSignpostMarker/sSignpostMarker.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sSignpostMarker",
     "tags": [],
     "resourceType": "GMSequence",

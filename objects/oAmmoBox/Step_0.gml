@@ -7,3 +7,5 @@ if(place_meeting(x,y,oPlayer)){
 		global.gunAmmo = global.MaxgunAmmo;
 		}
 }
+
+y = ystart + sin(get_timer()/500000)*2;

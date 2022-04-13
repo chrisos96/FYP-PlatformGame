@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sMedkit","path":"sprites/sMedkit/sMedkit.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sMedkit",
     "tags": [],
     "resourceType": "GMSequence",

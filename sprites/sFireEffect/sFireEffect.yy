@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sFireEffect","path":"sprites/sFireEffect/sFireEffect.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sFireEffect",
     "tags": [],
     "resourceType": "GMSequence",
