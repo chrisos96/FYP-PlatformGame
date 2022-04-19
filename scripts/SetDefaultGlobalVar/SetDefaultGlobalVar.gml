@@ -2,5 +2,5 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function SetDefaultGlobalVar(){
 	global.hp = 100;
-	global.gunAmmo = 30;
+	global.gunAmmo = 60;
 }

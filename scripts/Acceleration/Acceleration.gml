@@ -3,7 +3,7 @@
 //	arg1 --> max speed
 //	arg2 --> acceleration
 
-function Acceleration(){
+function Acceleration(arg0,arg1,arg2){
 	
 if (argument0 < argument1)
 {

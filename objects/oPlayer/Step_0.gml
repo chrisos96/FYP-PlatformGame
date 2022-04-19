@@ -28,16 +28,16 @@ else{
 }
 
 //Calculating movement VERSION1 STATIC
-var move = key_right - key_left
+//var move = key_right - key_left
 
 //Horizontal movement
-hsp = (move * walksp);
+//hsp = (move * walksp);
 
 //Calculating movement VERSION2 DYNAMIC
-//var move = (key_right - key_left) * walksp
+var move = (key_right - key_left) * walksp
 
 //Horizontal movement
-//hsp = Acceleration(hsp, move, acceleration);
+hsp = Acceleration(hsp, move, acceleration);
 
 
 //Vertical gravity
