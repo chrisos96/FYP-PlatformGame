@@ -1,6 +1,7 @@
 draw_self();
 
 draw_set_color(c_red);
+draw_set_font(fMainFont);
 draw_text(x-25,y-50,hp);
 draw_text(x,y-50,"/");
 draw_text(x+25,y-50,hp_max);

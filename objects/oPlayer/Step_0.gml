@@ -1,8 +1,10 @@
 if (hascontrol){
-	key_left = keyboard_check(vk_left);
-	key_right = keyboard_check(vk_right);
+	//key_left = keyboard_check(vk_left);
+	key_left = keyboard_check(ord("A"));
+	//key_right = keyboard_check(vk_right);
+	key_right = keyboard_check(ord("D"));
 	key_jump = keyboard_check(vk_space);
-	key_jump2 = keyboard_check(vk_up);
+	key_jump2 = keyboard_check(ord("W"));
 
 	if (key_left) || (key_right) || (key_jump){
 		controller = 0;

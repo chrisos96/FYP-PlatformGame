@@ -2,6 +2,7 @@ draw_self();
 
 //Drawing player hp
 draw_set_color(c_lime);
+draw_set_font(fMainFont);
 draw_set_halign(fa_center);
 draw_set_valign(fa_top);
 draw_text(x-25,y-50,global.hp);

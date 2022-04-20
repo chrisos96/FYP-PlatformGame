@@ -1,13 +1,15 @@
 if (trigger)
 {
-	var str = "remaining: ";
+	draw_set_font(fCreditsFont);
+	draw_set_color(c_green);
+	var str = "Enemies Remaining: ";
 	for (var i = 0; i < array_length_1d(remaining); i++)
 	{
 		str += string(remaining[i]) + "|";
 	}
-	draw_text(25,25,
+	draw_text(650,25,
 	str
-	+"\nwaves total: " +string(total_waves)
-	+"\nwave now: " +string(current_wave)
+	+"\nCurrent Wave: " +string(current_wave + 1)
+	+"\nTotal Waves: " +string(total_waves + 1)
 	)
 }

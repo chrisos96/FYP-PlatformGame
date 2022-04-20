@@ -9,6 +9,6 @@ if (point_in_circle(oPlayer.x,oPlayer.y,x,y,64)) && (!instance_exists(oText))
 	
 	with(oCamera)
 	{
-		follow = other.id;
+		//follow = other.id;
 	}
 }
