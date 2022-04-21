@@ -109,7 +109,7 @@
       ],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[
-            {"propertyId":{"name":"text","path":"objects/oSignpost/oSignpost.yy",},"objectId":{"name":"oSignpost","path":"objects/oSignpost/oSignpost.yy",},"value":"\"BASIC CONTROLS\\n^ or SPACE KEY TO JUMP\\n<> KEYS TO MOVE\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"text","path":"objects/oSignpost/oSignpost.yy",},"objectId":{"name":"oSignpost","path":"objects/oSignpost/oSignpost.yy",},"value":"\"BASIC CONTROLS\\nW or SPACE KEY TO JUMP\\nA-D KEYS TO MOVE\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"oSignpost","path":"objects/oSignpost/oSignpost.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":224.0,"y":576.0,"resourceVersion":"1.0","name":"inst_72C18A13","tags":[],"resourceType":"GMRInstance",},
         {"properties":[
             {"propertyId":{"name":"text","path":"objects/oSignpost/oSignpost.yy",},"objectId":{"name":"oSignpost","path":"objects/oSignpost/oSignpost.yy",},"value":"\"LEFT CLICK MOUSE TO SHOOT\\nBULLETS INFLICT 25 DAMAGE\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},

@@ -23,6 +23,8 @@ if(global.gunAmmo > 1){
 	
 		recoil = 4;
 		firingdelay = 8;
+		audio_sound_pitch(SFXShot,choose(0.4,0.2,0.3));
+		audio_play_sound(SFXShot,600,false);
 		global.gunAmmo -= 1;
 
 		with (instance_create_layer(x,y-6,"Pickups", oAmmo)){

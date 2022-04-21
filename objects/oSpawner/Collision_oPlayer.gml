@@ -4,6 +4,8 @@ if (trigger == false)
 {
 	with (oBossDoor) closed = true;
 	trigger = true;
+	audio_stop_all();
+	audio_play_sound(ostLVL5,500,true);
 	
 	//work out waves
 	total_waves = -1;

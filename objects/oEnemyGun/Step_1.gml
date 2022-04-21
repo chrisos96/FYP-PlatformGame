@@ -15,6 +15,8 @@ if (instance_exists(oPlayer))
 		{
 			countdown = countdowntick;
 			if(!collision_line(x,y,oPlayer.x,oPlayer.y,oCollision,false,false))
+			audio_sound_pitch(SFXShot,choose(0.4,0.2,0.3));
+			audio_play_sound(SFXShot,600,false);
 			{
 			//Bullets code Here
 			with (instance_create_layer(x,y-6,"Pickups", oEnemyAmmo))

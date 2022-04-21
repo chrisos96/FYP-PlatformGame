@@ -5,14 +5,15 @@ Special thanks to the people below for providing their amazing game assets
 
 AUDIO
 Music = Miguel Herrero 
-		Alexandr Zhelanov
-SFX = NAN 
+Alexandr Zhelanov
+
+SFX = Viktor Hahn
+Michael Klier
 
 GAME ART
 Character Art = Pipoya
 Landscape Art = Cainos
 Interactible Art = Alekei
-
 
 
 

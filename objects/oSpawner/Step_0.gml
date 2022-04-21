@@ -27,4 +27,5 @@ if (trigger)
 			timer = 0;
 		}
 	}
+	
 }
